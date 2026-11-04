@@ -59,7 +59,7 @@ Revenue and cancellation analysis.
 - Cancellation reasons by customers
 - Top customers by revenue
 
-![Revenue](images/revenue.png)
+<a href="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231131.png">Revenue<a/>
 
 ---
 
