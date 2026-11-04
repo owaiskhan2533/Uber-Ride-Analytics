@@ -71,7 +71,7 @@ Customer-level insights.
 - Customer details table (Revenue, Completed, Lost, Avg Distance)
 - Cancelled rides by reasons, with Driver / Incomplete / Customer slicers
 
-![Rider](images/rider.png)
+<a href="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231147.png"><a/>
 
 ---
 
@@ -117,25 +117,5 @@ Customer-level insights.
 ---
 
 
-## How to Use
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Open `Uber_Dashboard.pbix` in **Power BI Desktop**
-3. Refresh the data if the dataset path changes
-4. Use the navigation buttons and slicers to explore the dashboard
-
----
-
-## Author
-
-**Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🐙 [GitHub](https://github.com/your-username)
-
----
-
-⭐ If you found this project useful, give it a star!
 
 
