@@ -35,7 +35,7 @@ High-level performance summary with KPI cards and trends.
 - Monthly revenue distribution
 - Top Pickup and Top Drop locations
 
-![Overview](images/overview.png)
+<a hred="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231043.png">Overview<a/>
 
 ---
 
