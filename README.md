@@ -35,18 +35,18 @@ High-level performance summary with KPI cards and trends.
 - Monthly revenue distribution
 - Top Pickup and Top Drop locations
 
-<a hred="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231043.png">Overview<a/>
+<a href="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231043.png">Overview<a/>
 
 ---
 
-### 3. 🚕 Vehicle
+### 3.Vehicle
 Vehicle-wise breakdown in a detailed table with sparklines.
 
 - Customer Count, Revenue, Booking Count, Completed Bookings and Contribution % per vehicle
 - Monthly trend sparkline for each vehicle type
 - Vehicles covered: Auto, Bike, Go Mini, Go Sedan, Premier Sedan, Uber XL
 
-![Vehicle](images/vehicle.png)
+<a href="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231113.png">Vehicle<a/>
 
 ---
 
