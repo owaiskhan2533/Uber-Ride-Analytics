@@ -22,7 +22,7 @@ This dashboard answers questions like:
 ### 1. Home
 Landing page with a short project description and navigation buttons to every page (Home, Overview, Vehicle, Revenue, Rider).
 
-![Home](images/home.png)
+![Home] <a href="https://github.com/owaiskhan2533/Uber-Ride-Analytics/blob/main/Screenshots/Screenshot%202026-11-03%20231058.png"><a/>
 
 ---
 
